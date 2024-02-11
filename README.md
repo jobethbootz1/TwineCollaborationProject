@@ -1,3 +1,4 @@
 # TwineCollaborationProject
 # Contributors to the project: Bailee and Jo Beth
 # Version 5 is final production for this assignment
+# For this assignment, Bailee and I worked together to merge the narrative and asset elements so that we could review and share on the system. Bailee was the lead writer on the narrative end and I worked on asset collection and development. Together, we worked to code the Twine portion. The process on GitHub was not fully intuitive and we have worked through multiple phases to do the basics in the system. Both Bailee and I spent a significant amount of time in tutorials and searches to understand the basic processes. The positive of this system is visual branch management and the ability to access and view assets for seamless integration. The process of pushing and pulling items was done to merge into our main branch so we could see updates from each other. 
